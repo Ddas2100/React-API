@@ -24,3 +24,8 @@
     outline: none;
     border-color: #230052;
   }
+
+  .control.error input,
+  .control.error textarea {
+    border-color: red;
+  }
